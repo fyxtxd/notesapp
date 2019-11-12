@@ -1,5 +1,3 @@
-//hello
-//hello
 
 import React from 'react';
 
@@ -23,7 +21,7 @@ let bodyChange = (e) => {
 
 return (
     <div>
-        Notes Title: <input type="text" onChange={titleChange}><</input>
+        Notes Title: <input type="text" onChange={titleChange}></input>
     </div>
 )
 

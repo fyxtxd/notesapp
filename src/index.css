@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.box1{
+  color: black;
+  font: "Arial";
+  font-size: 2em;
+  margin:2em;
+  
+
+}
+ 
+.buttons {
+  font-size: 0.6em;
+}
